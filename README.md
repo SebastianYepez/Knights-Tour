@@ -11,4 +11,4 @@ I developed this project in high school as a passion project, thus one could fin
 
 As a user, the program will run as long as desired, taking in a coordinate input (e.g. e4) and printing the resultant board until the user types in "done."
 
-If you would like to try to solve the Knight's Tour on your own, [here[(https://www.maths-resources.com/knights/) is a fun game online!
+If you would like to try to solve the Knight's Tour on your own, [here](https://www.maths-resources.com/knights/) is a fun game online!
